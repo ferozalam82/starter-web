@@ -13,3 +13,8 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+# Thank you Note
+   
+   A thank you note from Feroz Alam
