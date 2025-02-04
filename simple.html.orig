@@ -23,8 +23,11 @@
 	<!-- Content Goes Here -->
 		<p>
 			Just some content
-			Currently I am demontrating a conflict during a rebase
+<<<<<<< HEAD
 			Adding a change in the master branch
+=======
+			Currently I am demontrating a conflict during a rebase
+>>>>>>> 60a2f0d (adding trouble in the feature branch)
 		</p>
 	</main>
 	<footer class="container">
