@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
     Feroz Alam Git Training
 # THANKS
-
+	Adding a thank you note for all my readers
     <name>
 
 # TECHNOLOGY COLOPHON
