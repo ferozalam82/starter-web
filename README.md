@@ -16,4 +16,4 @@ Copyright message
 
 ## Adding instruction
 Adding instruction to the README.md file
-
+We are doing an emergency fix after our stash commanad execution for untracked files.
