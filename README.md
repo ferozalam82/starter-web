@@ -1,7 +1,7 @@
 # Starter Web Repo
 This repository is for showing how Git and GitHub work
 Adding a line for my rebasing example, more change to the feature branch
-
+Eding the ReadE file to understand commparison using Github
 ## Introduction
 
 ## Purpose
