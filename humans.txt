@@ -13,7 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-
+	Git
 
 # Thank you Note
    
